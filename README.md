@@ -1,5 +1,4 @@
-README
-~~~~~~
+## README
 
     This is a simple application which takes as input a user's name, email, password, and a password
 confirmation to compare to the first password, as if the user is making an account in the
