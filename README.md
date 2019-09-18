@@ -8,4 +8,4 @@ fields are missing, it will warn the user. If the passwords are not matching, th
 alerted as well. If all is well, then the message will simply welcome the user, using the name in
 the first input field. 
 
-![Screenshot](https://github.com/s-digiro/SignUpForm/master/screenshot.png)
+![Screenshot](https://github.com/SignUpForm/master/screenshot.png)
